@@ -1,0 +1,46 @@
+.div1{
+    margin: auto;
+    width: 800px;
+    height: 250px;
+    background-color: #c6c6c6;
+}
+.div2{
+    width: 300px;
+    height: 200px;
+    background-color: #d44331;
+    margin: auto;
+}
+.div3{
+    width: 300px;
+    height: 50px;
+    background-color: #003bea;
+    margin: auto;
+}
+.box{
+    width: 800px;
+    height: 200px;
+    margin: auto;
+    margin-top: 20px;
+}
+.div4{
+    float: left;
+    width: 420px;
+    height: 250px;
+    background-color: #a0f368;
+}
+.div5{
+    float: right;
+    width: 330px;
+    height: 200px;
+    margin-top: 50px;
+    background-color: #434282;
+}
+.div6{
+    margin-top: 100px;
+    width: auto;
+    margin-left: -10px;
+    margin-right: -8px;
+    padding: 8px;
+    height: 100px;
+    background-color: #aa8840;
+}
